@@ -288,6 +288,7 @@ and legal teams an opportunity to create solutions for healthy open source usage
 
 | Name | Owner | Licence | Platforms |
 | ---- | ----- | ------- |---------- |
+| [Aikido Security] | Aikido Security | Commercial / Freemium | Cross Platform / SaaS |
 | [Arnica] | Arnica | Commercial / Freemium | Cross Platform / SaaS |
 | [Black Duck Hub] | Synopsys | Commercial | Cross Platform |
 | [Bytesafe] | Bytesafe | Freemium | SaaS |
@@ -340,6 +341,7 @@ and legal teams an opportunity to create solutions for healthy open source usage
 | [Xray] | JFrog | Commercial | Cross Platform |
 
 [Arnica]: https://arnica.io/
+[Aikido Security]: https://aikido.dev/
 [Bytesafe]: https://bytesafe.dev/
 [Bytesafe Dependency Checker]: https://bytesafe.dev/dependency-checker/javascript/
 [Black Duck Hub]: https://www.blackducksoftware.com/
